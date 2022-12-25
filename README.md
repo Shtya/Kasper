@@ -1,2 +1,2 @@
 # Kasper
-https://shtya.github.io/Dev/
+https://shtya.github.io/Kasper/
